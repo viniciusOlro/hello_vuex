@@ -1,19 +1,5 @@
 # hello_vuex
 
-## Project setup
-```
-npm install
-```
+Primeiros movimentos com Vuex. 
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Repositório para fins de consulta, não se trata de um projeto.
